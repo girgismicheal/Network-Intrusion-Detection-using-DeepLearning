@@ -2,10 +2,8 @@
 
 
 ## Results:
-|      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
+**Batch size**
 
 Batch size	 |Min_train_acc|	Max_train_acc|	AVG_train_acc|	Min_test_acc|	Max_test_acc|	AVG_test_acc|	Min_valid_acc|	Max_valid_acc|	AVG_valid_acc|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
