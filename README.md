@@ -24,6 +24,14 @@ The figure below shows our project pipeline.
 ## Results:
 **BaseLine Model Accurancy
 
+### Feature selection and Dimensionality reduction
+
+|                    | Best Feature Number | AVG\_test\_acc | AVG\_valid\_acc |
+|--------------------|---------------------|----------------|-----------------|
+| PCA                | 27                  | 0.7754         | 0.7683          |
+| <mark>ANOVA</mark> | 11                  | 0.778          | 0.7764          |
+| Mutual Information | 19                  | 0.769          | 0.7532          |
+
 ### Batch size
 
 |                 | Min\_train\_acc | Max\_train\_acc | AVG\_train\_acc | Min\_test\_acc | Max\_test\_acc | AVG\_test\_acc        | Min\_valid\_acc | Max\_valid\_acc | AVG\_valid\_acc |
@@ -101,6 +109,9 @@ The figure below shows our project pipeline.
 | Sigmoid                  | 0.2543          | 0.57427         | 0.44162         | 0.22638        | 0.61497        | 0.44385              | 0.25134         | 0.61141         | 0.46631         |
 | Tanh                     | 0.79572         | 0.80298         | 0.80046         | 0.79857        | 0.81283        | 0.80535              | 0.80927         | 0.827094        | 0.8189          |
 
+### Comparing Results
+
+
 ## Conclusion
 
 | Parameters             | Best Choice        | Test Accuracy | AVG\_train\_acc | Min\_test\_acc | Max\_test\_acc | AVG\_test\_acc       | Min\_valid\_acc | Max\_valid\_acc | AVG\_valid\_acc |
@@ -109,4 +120,4 @@ The figure below shows our project pipeline.
 | Batch Size             | 64                 | 0.7732        | 0.81191         | 0.80392        | 0.84136        | <mark>0.81854</mark> | 0.80392         | 0.823529        | 0.81177         |
 | Hidden Layer + Neurons | 8 & 40             | 0.815         | 0.44162         | 0.22638        | 0.61497        | 0.44385              | 0.25134         | 0.61141         | 0.46631         |
 | Optimizer              | AdamW with lr .001 | 0.811         | 0.80046         | 0.79857        | 0.81283        | 0.80535              | 0.80927         | 0.827094        | 0.8189          |
-| Activation Function            | LeakyRelu          | 0.82          | 0.80046         | 0.79857        | 0.81283        | 0.80535              | 0.80927         | 0.827094        | 0.8189          |
+| Activation Function    | LeakyRelu          | 0.82          | 0.80046         | 0.79857        | 0.81283        | 0.80535              | 0.80927         | 0.827094        | 0.8189          |
