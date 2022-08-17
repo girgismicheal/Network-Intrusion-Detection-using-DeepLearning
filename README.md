@@ -14,14 +14,14 @@ https://www.tapadhirdas.com/unr-idd-dataset
 ### Multi-class Classification
 The goal of multi-class classification is to differentiate the intrusions not only from normal working conditions but also from each other. Multi-class classification helps us to learn about the root causes of network intrusions. The labels for multi-class classification in UNR-IDD are illustrated in the accompanying table.
 
-| Label	      | Description                   |
-| ----------- | -----------                   |
-|Normal       |	Network Functionality.|
-|TCP-SYN      |	TCP-SYN Flood.                |
-|PortScan     |	Port Scanning.                |
-|Overflow     |	Flow Table Overflow.          |
-|Blackhole    |	Blackhole Attack.             |
-|Diversion    |	Traffic Diversion Attack.     |
+| Label	      | Description                |
+| ----------- |----------------------------|
+|Normal       | 	Network Functionality.    |
+|TCP-SYN      | 	TCP-SYN Flood.            |
+|PortScan     | 	Port Scanning.            |
+|Overflow     | 	Flow Table Overflow.      |
+|Blackhole    | 	Blackhole Attack.         |
+|Diversion    | 	Traffic Diversion Attack. |
 
 ## The Project Methodology
 The figure below shows our project pipeline.
@@ -30,7 +30,8 @@ The figure below shows our project pipeline.
 [//]: #![image](https://drive.google.com/uc?export=view&id=1mMgQzvgfCqGYUnkptkJ_Ahh3fRBPgMde)
 
 ## Results:
-**BaseLine Model Accurancy
+
+**BaseLine Model Accurancy**
 
 ### Feature selection and Dimensionality reduction
 
