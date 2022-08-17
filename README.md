@@ -32,7 +32,11 @@ The figure below shows our project pipeline.
 
 ## Results:
 
-**BaseLine Model Accurancy**
+### BaseLine Model Accuracy
+
+| Min\_train\_acc | Max\_train\_acc | AVG\_train\_acc | Min\_test\_acc | Max\_test\_acc | AVG\_test\_acc | Min\_valid\_acc | Max\_valid\_acc | AVG\_valid\_acc |
+| --------------- | --------------- | --------------- | -------------- | -------------- | -------------- | --------------- | --------------- | --------------- |
+| 0.797251        | 0.812142        | 0.806109        | 0.752228       | 0.768271       | 0.760071       | 0.745098        | 0.771836        | 0.759358        |
 
 ### Feature selection and Dimensionality reduction
 
