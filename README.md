@@ -111,6 +111,25 @@ The figure below shows our project pipeline.
 
 ### Comparing Results
 
+#### T-SNE
+Original Dataset
+![image](https://drive.google.com/uc?export=view&id=1Og_zNBx4Vm9P8c90NA6NgnZQ4tpv8Ai5)
+
+PCA Transformed Dataset
+![image](https://drive.google.com/uc?export=view&id=1XPxo15BFDt9KYCxElvsLiGIsqnssf_CN)
+
+ANOVA Selected Features
+![image](https://drive.google.com/uc?export=view&id=1TAQxkeAAz0bvITBwtvvehul6hMvtVGYT)
+
+#### Confusion Matrix
+
+
+| Base Line Model                                                                        | After The Feature Selection | After The Parameter Selection                                                           |
+|----------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------|
+| ![image](https://drive.google.com/uc?export=view&id=1suQXuao7zxyf-3znB2zAqRmmrKQdhi41) | ![image](https://drive.google.com/uc?export=view&id=1B_XCaz1bgJRY2OAAqGI2P25Ut-pzi0rN)        | ![image](https://drive.google.com/uc?export=view&id=1ZiKCYL8KGozQYQMTUZa-j_-S0oNzZsSa)  |
+
+
+
 
 ## Conclusion
 
