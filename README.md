@@ -114,6 +114,7 @@ The figure below shows our project pipeline.
 #### T-SNE
 Original Dataset
 ![image](Image/Picture4.png)
+
 [//]: # (![image]&#40;https://drive.google.com/uc?export=view&id=1Og_zNBx4Vm9P8c90NA6NgnZQ4tpv8Ai5&#41;)
 
 PCA Transformed Dataset
