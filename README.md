@@ -8,6 +8,7 @@ With the expanded applications of modern-day networking, network infrastructures
 [//]: #![image](https://drive.google.com/uc?export=view&id=12F5nT5UPD-PQWMy23u6iVmP36EEF2gqC)
 
 <br>
+
 **Note: This is a real world problem you can check link from more information and how the University of Nevada, Reno collect the data**
 https://www.tapadhirdas.com/unr-idd-dataset
 
@@ -120,7 +121,7 @@ The figure below shows our project pipeline.
 
 ### Comparing Results
 
-#### T-SNE
+#### T-SNE Figures
 Original Dataset
 ![image](Image/Picture4.png)
 
