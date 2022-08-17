@@ -1,7 +1,12 @@
 # Network-Intrusion-Detection-using-DeepLearning
 ## Problem’s overview
 With the expanded applications of modern-day networking, network infrastructures are at risk from cyber-attacks and intrusions. Multiple datasets have been proposed in the literature that can be used to create Machine Learning (ML) based Network Intrusion Detection Systems (NIDS). However, many of these datasets suffer from sub-optimal performance and do not adequately and effectively represent all types of intrusions.  Another problem with these datasets is the low accuracy of tail classes. To address these issues,  we propose the University of Nevada - Reno Intrusion Detection Dataset (UNR-IDD) that provides researchers with a wider range of samples and scenarios.
-![image](https://drive.google.com/uc?export=view&id=12F5nT5UPD-PQWMy23u6iVmP36EEF2gqC)
+
+![image](Image/Network Intrusion Detection using Deep Learning.png)
+
+
+[//]: #![image](https://drive.google.com/uc?export=view&id=12F5nT5UPD-PQWMy23u6iVmP36EEF2gqC)
+
 <br>
 **Note: This is a real world problem you can check link from more information and how the University of Nevada, Reno collect the data**
 https://www.tapadhirdas.com/unr-idd-dataset
@@ -20,7 +25,10 @@ The goal of multi-class classification is to differentiate the intrusions not on
 
 ## The Project Methodology
 The figure below shows our project pipeline.
-![image](https://drive.google.com/uc?export=view&id=1mMgQzvgfCqGYUnkptkJ_Ahh3fRBPgMde)
+![image](Image/Machine Learning Flow Diagram.png)
+
+[//]: #![image](https://drive.google.com/uc?export=view&id=1mMgQzvgfCqGYUnkptkJ_Ahh3fRBPgMde)
+
 ## Results:
 **BaseLine Model Accurancy
 
