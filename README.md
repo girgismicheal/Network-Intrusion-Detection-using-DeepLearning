@@ -1,7 +1,7 @@
 # Network-Intrusion-Detection-using-DeepLearning
 ## Problem’s overview
 With the expanded applications of modern-day networking, network infrastructures are at risk from cyber-attacks and intrusions. Multiple datasets have been proposed in the literature that can be used to create Machine Learning (ML) based Network Intrusion Detection Systems (NIDS). However, many of these datasets suffer from sub-optimal performance and do not adequately and effectively represent all types of intrusions.  Another problem with these datasets is the low accuracy of tail classes. To address these issues,  we propose the University of Nevada - Reno Intrusion Detection Dataset (UNR-IDD) that provides researchers with a wider range of samples and scenarios.
-
+<br>
 ![image](Image/Picture8.png)
 
 
